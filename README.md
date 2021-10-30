@@ -12,3 +12,6 @@ Awesome Archive of Quantum Computing Basics
 
 ## Online Course by CMU
 - https://youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz
+
+## Online Course by Michael Nielson
+- https://youtube.com/playlist?list=PL1826E60FD05B44E4
